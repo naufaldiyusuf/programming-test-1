@@ -22,6 +22,8 @@ Catatan Tambahan:
 * Diharapkan dapat menggunakan framework bagi bahasa pemrograman yang dipilih, jika tidak bisa pastikan kodenya terstruktur dengan baik
 * Code Readability sangat penting
 * Dilengkapi dengan dokumentasi yang memadai, minimal di setiap kelas ataupun fungsi yang penting
+* Aplikasi yang dibuat harus disertakan dengan langkah instalasi dan pengetesan
+* Aplikasi yang dibuat harus dizip dan dikirimkan ke alamat email yang ditentukan
 
 # Contoh DETAIL_ARTIKEL:
   * URL: **https://bisnis.tempo.co/read/1381362/dikabarkan-utang-untuk-put-bukopin-dari-mana-dana-bosowa-sebenarnya**
