@@ -11,6 +11,7 @@ Pemohon diharapkan dapat menunjukkan pemahaman dan kemampuannya membuat program 
 * Untuk pengambilan DETAIL_ARTIKEL dari halaman indeks berita, haruslah menggunakan XPATH
   * Silakan mengakses URL berikut ini untuk keterangan lebih lanjut: [XPATH w3schools](https://www.w3schools.com/xml/xpath_intro.asp)
 * menyimpan DETAIL_ARTIKEL ke dalam database
+  * Silakan melihat [skema ini](https://github.com/sonarid/programming-test-1/blob/master/sql/news_article.sql)
 * DETAIL_ARTIKEL terdiri dari:
   * URL
   * Judul
