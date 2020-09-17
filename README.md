@@ -2,6 +2,9 @@
 ## Deskripsi
 Repositori ini digunakan sebagai rujukan untuk test pemrograman.
 
+# PENTING!!!!!
+Pastikan kode yang diupload melalui Google Drive mempunya hak akses public
+
 # Spesifikasi Program
 Pemohon diharapkan dapat menunjukkan pemahaman dan kemampuannya membuat program dengan membuat aplikasi sederhana yang:
 * dibuat dalam bahasa yang dikuasai (java, scala, python, php, atau lainnya)
